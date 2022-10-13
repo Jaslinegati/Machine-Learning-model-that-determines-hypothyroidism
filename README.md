@@ -1,7 +1,7 @@
 # Nairobi Hospital hypothyroidism clinical camp test
 Build a model that decides if the patient's symptoms suggest hypothyroidism.
 
-Part 1
+### Part 1
 
 Build a model to assess if the patient's symptoms mean the patient has hypothyroid or not. Take advanced models of at least 2 out of 3: random forests, Ada boosted trees, and gradient boosted trees.
 
@@ -9,7 +9,7 @@ Seek to optimize each of the two models, making sure you record how the hyperpar
 
 Identify which of the 2 models you have the most confidence in, and use your choice to de
 
-Part 2
+### Part 2
 
 Report on the data every transformation you made.
 
